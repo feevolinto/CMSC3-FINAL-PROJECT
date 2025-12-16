@@ -1,0 +1,30 @@
+Portfolio Website Project Documentation
+
+Topic Selection
+I chose to create  my first full blown website a personal portfolio website with feevol. know me.
+because I wanted to showcase my journey as a UI/UX Designer, 
+Project Manager, and aspiring Full Stack Developer. 
+This project allowed me to present my skills, engagements, 
+and creative work in a cohesive digital space while 
+demonstrating my technical abilities.
+
+Work Distribution
+Since I worked individually on this project, 
+I managed all aspects of development. I structured 
+my workflow by first creating the design mockups in 
+Figma, then building the HTML structure for all pages 
+(home, engagements, and creatives), followed by implementing 
+the CSS styling, and finally adding interactive elements 
+and animations to enhance user experience.
+
+Biggest Challenge
+The single biggest challenge I faced was translating 
+my Figma design into proper CSS code. The visual design 
+looked perfect in Figma, but implementing the exact spacing, 
+colors, animations, and responsive layouts in CSS proved 
+difficult. I solved this by breaking down each section 
+methodically, using CSS Grid and Flexbox for layouts, 
+carefully measuring spacing values, and iteratively testing 
+hover animations until they matched my vision. This process 
+taught me the importance of design-to-code translation skills 
+and attention to detail.
